@@ -2,7 +2,7 @@
 	"name": "ima-babel6-polyfill",
 	"version": "0.12.0",
 	"description": "Babel 6 polyfill for IE<=10",
-	"main": "index.js",
+	"main": "proto-babel-polyfill.js",
 	"scripts": {
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
